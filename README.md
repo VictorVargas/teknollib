@@ -1,3 +1,3 @@
 # teknollib
 
-Api para la carga a la base de datos de teknoltest
+Api para la carga de información a la base de datos de teknoltest
